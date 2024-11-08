@@ -25,11 +25,12 @@ Furthermore, in this paper, we propose **RIGL**, a unified Reciprocal model to t
 * python 3.8
 * pytorch 1.13+cu117
 * torch_geometric
+> * pip install torch_geometric 
+> * pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-1.13.0+cu117.html
 * numpy
 * pandas
 * sklearn
-> * pip install torch_geometric 
-> * pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-1.13.0+cu117.html
+
 
 
 #### Usage
