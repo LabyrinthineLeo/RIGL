@@ -4,7 +4,9 @@
 
 ***
 
-The code in this repository is the implementation of the proposed RIGL model accepted by KDD-24, and the used datasets are the public benchmarks including ASSIST12, NIPS-Edu, SLP-Math and SLp-Bio, which can refer to the detailed description in the appendices.
+:clipboard: The code in this repository is the implementation of the proposed RIGL model accepted by KDD-24, and the used datasets are the public benchmarks including ASSIST12, NIPS-Edu, SLP-Math and SLp-Bio, which can refer to the detailed description in the appendices.
+
+:rocket: Paper: [RIGL-PAPER-PDF](https://doi.org/10.1145/3637528.3671711) / [arXiv](https://arxiv.org/abs/2406.12465) 
 
 
 #### Introduction
